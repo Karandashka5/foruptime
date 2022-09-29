@@ -1,0 +1,17 @@
+{
+    "hwdrawtool": {
+        "repository": "https://gitlab.onix.ua/onix-systems/hwdrawtool",
+        "url": "https://hwdrawtool.staging.onix.ua",
+        "last_check": "2022-07-18"
+    },
+    "kozystay-backend": {
+        "repository": "https://gitlab.onix.ua/onix-systems/youtube",
+        "url": "https://www.youtube.com",
+        "last_check": "2022-09-16"
+    },
+    "edorable-hq-react": {
+        "repository": "https://gitlab.onix.ua/onix-systems/edorable-hq-react",
+        "url": "https://edorable.staging.onix.ua",
+        "last_check": "2022-07-18"
+    }
+}
