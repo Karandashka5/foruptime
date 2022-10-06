@@ -4,13 +4,13 @@
         "url": "https://hwdrawtool.staging.onix.ua",
         "last_check": "2022-07-18"
     },
-    "kozystay-backend": {
+    "youtube": {
         "repository": "https://gitlab.onix.ua/onix-systems/youtube",
         "url": "https://www.youtube.com",
         "last_check": "2022-09-16"
     },
-    "edorable-hq-react": {
-        "repository": "https://gitlab.onix.ua/onix-systems/edorable-hq-react",
+    "badssl": {
+        "repository": "https://expired.badssl.com",
         "url": "https://edorable.staging.onix.ua",
         "last_check": "2022-07-18"
     }
