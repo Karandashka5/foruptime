@@ -1,13 +1,13 @@
 {
-    "ll": {
-        "repository": "https://gitlab.onix.ua",
-        "url": "https://phoenixnap.com/kb/bash-if-statement",
+    "translate": {
+        "repository": "https://gitlab.onix.ua/translate",
+        "url": "https://translate.google.com",
         "last_check": "2022-07-18"
     },
-    "youtube": {
-        "repository": "https://gitlab.onix.ua/onix-systems/youtube",
-        "url": "https://www.youtube.com",
-        "last_check": "2022-09-16"
+    "expired": {
+        "repository": "https://gitlab.onix.ua/onix-systems/expired",
+        "url": "https://expired.badssl.com",
+        "last_check": "2022-09-22"
     },
     "ooo": {
         "repository": "https://gitlab.onix.ua/onix-systems/hwdrawtool",
