@@ -18,5 +18,20 @@
         "repository": "https://gitlab.onix.ua/onix/jq",
         "url": "https://www.cyberciti.biz/faq/bash-for-loop",
         "last_check": "2022-07-28"
+    },
+    "google": {
+        "repository": "https://gitlab.onix.ua/onix/jq",
+        "url": "https://www.google.com",
+        "last_check": "2022-07-28"
+    },
+    "map": {
+        "repository": "https://gitlab.onix.ua/onix/",
+        "url": "https://www.map.com",
+        "last_check": "2022-07-28"
+    },
+    "bash": {
+        "repository": "https://gitlab.onix",
+        "url": "https://www.bash.org",
+        "last_check": "2022-07-28"
     }
 }
