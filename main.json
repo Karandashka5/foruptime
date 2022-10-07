@@ -9,24 +9,18 @@
         "url": "https://expired.badssl.com",
         "last_check": "2022-09-22"
     },
-    "bash-for-loop": {
-        "repository": "https://gitlab.onix.ua/onix/jq",
-        "url": "https://www.cyberciti.biz/faq/bash-for-loop",
+    "ooo": {
+        "repository": "https://gitlab.onix.ua/onix-systems/hwdrawtool",
+        "url": "https://expired.badssl.com",
+        "last_check": "2022-07-18"
+    },
+    "jq-select": {
+        "repository": "https://gitlab.onix.ua/onix/jq-select",
+        "url": "https://dscottraynsford.wordpress.com/2017/11/18/auto-formatting-powershell-in-visual-studio-code/",
         "last_check": "2022-07-28"
     },
-    "google": {
-        "repository": "https://gitlab.onix.ua/onix/jq",
-        "url": "https://www.google.com",
+    "jq-select": {
+        "repository": "https://gitlab.onix.ua/onix/jq-select",
+        "url": "https://dscottraynsford.wordpress.com/2017/11/18/auto-formatting-powershell-in-visual-studio-code/",
         "last_check": "2022-07-28"
-    },
-    "map": {
-        "repository": "https://gitlab.onix.ua/onix/",
-        "url": "https://www.map.com",
-        "last_check": "2022-07-28"
-    },
-    "bash": {
-        "repository": "https://gitlab.onix",
-        "url": "https://www.bash.org",
-        "last_check": "2022-07-28"
-    }
 }
