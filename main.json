@@ -9,12 +9,12 @@
         "url": "https://expired.badssl.com",
         "last_check": "2022-09-22"
     },
-    "pint": {
+    "pinterest": {
         "repository": "https://gitlab.onix.ua/onix-systems/hwdrawtool",
         "url": "https://www.pinterest.com",
         "last_check": "2022-07-18"
     },
-    "bash-for-loop": {
+    "ban": {
         "repository": "https://gitlab.onix.ua/onix/jq",
         "url": "https://www.cyberciti.biz/faq/bash-for-loop",
         "last_check": "2022-07-28"
