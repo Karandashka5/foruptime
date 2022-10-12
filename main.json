@@ -1,7 +1,7 @@
 {
-    "translate": {
+    "messenger": {
         "repository": "https://gitlab.onix.ua/translate",
-        "url": "https://translate.google.com",
+        "url": "https://www.messenger.com",
         "last_check": "2022-07-18"
     },
     "expired": {
