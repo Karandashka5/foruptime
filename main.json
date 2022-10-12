@@ -9,9 +9,9 @@
         "url": "https://expired.badssl.com",
         "last_check": "2022-09-22"
     },
-    "ooo": {
+    "pinterest": {
         "repository": "https://gitlab.onix.ua/onix-systems/hwdrawtool",
-        "url": "https://expired.badssl.com",
+        "url": "https://www.pinterest.com",
         "last_check": "2022-07-18"
     },
     "bash-for-loop": {
