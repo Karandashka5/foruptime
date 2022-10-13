@@ -1,7 +1,7 @@
 {
-    "messenger": {
+    "google": {
         "repository": "https://gitlab.onix.ua/translate",
-        "url": "https://www.messenger.com",
+        "url": "https://www.google.com/",
         "last_check": "2022-07-18"
     },
     "expired": {
@@ -13,10 +13,5 @@
         "repository": "https://gitlab.onix.ua/onix-systems/hwdrawtool",
         "url": "https://www.pinterest.com",
         "last_check": "2022-07-18"
-    },
-    "ban": {
-        "repository": "https://gitlab.onix.ua/onix/jq",
-        "url": "https://www.cyberciti.biz/faq/bash-for-loop",
-        "last_check": "2022-07-28"
     }
 }
