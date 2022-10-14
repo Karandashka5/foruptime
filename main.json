@@ -13,5 +13,10 @@
         "repository": "https://gitlab.onix.ua/onix-systems/hwdrawtool",
         "url": "https://www.pinterest.com",
         "last_check": "2022-07-18"
+    },
+    "tutorialkart": {
+        "repository": "https://gitlab.onix.ua/onix-systems/hwdrawtool",
+        "url": "https://www.tutorialkart.com",
+        "last_check": "2022-07-18"
     }
 }
